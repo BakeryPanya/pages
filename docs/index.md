@@ -2,7 +2,7 @@
 
 ほげ[ふが](https://github.com/)ぴよ
 
-[ほげ](./fuga/hoge.md)
+![ほげ](./hoge.png)
 
 1. レベル 0
 1. レベル 0
